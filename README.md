@@ -1,5 +1,9 @@
 # S34
 
+<div style="text-align: center">
+  <img src="https://rule34.xxx/images/header2.png"/>
+</div>
+
 ## Install
 ```
 git clone git@github.com:Deadly-Dolls/S34.git
